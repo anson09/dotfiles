@@ -1,5 +1,5 @@
 /usr/local/lib
-├── npm@6.13.2
-├── pure-prompt@1.11.0
-└── trash-cli@3.0.0
++-- npm@6.13.2
++-- pure-prompt@1.11.0
+`-- trash-cli@3.0.0
 

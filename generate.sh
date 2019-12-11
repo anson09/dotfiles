@@ -1,3 +1,4 @@
+#!/bin/zsh
 set -uo pipefail
 
 BAK_PATH=$(cd $(dirname $0) && pwd)
@@ -20,4 +21,4 @@ brew list | cat > $BAK_PATH/brew.txt
 brew cask list | cat > $BAK_PATH/brew_cask.txt
 npm -g list --depth=0 > $BAK_PATH/npm.txt
 cat ~/.npmrc | grep -v Token > $BAK_PATH/.npmrc
-echo "FINISH ✅ ..."
+echo "FINISH ✅"
