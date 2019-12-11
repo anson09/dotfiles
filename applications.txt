@@ -1,0 +1,20 @@
+Bose Updater.app
+Charles.app
+Docker.app
+Google Chrome.app
+Hyper.app
+IINA.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+NeteaseMusic.app
+RAR Extractor Lite.app
+Safari.app
+ShadowsocksX-NG.app
+Thunder.app
+Tunnelblick.app
+Utilities
+Visual Studio Code.app
+VNC Viewer.app
+WeChat.app
+网易有道词典.app
