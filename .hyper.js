@@ -12,7 +12,10 @@ module.exports = {
     fontSize: 12,
 
     // font family with optional fallbacks
-    fontFamily: 'Monaco, "Cascadia Code"',
+    fontFamily: "Monaco",
+
+    // font family to use for the UI with optional fallbacks
+    uiFontFamily: "Cascadia Code",
 
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
@@ -48,18 +51,6 @@ module.exports = {
     // custom CSS to embed in the main window
     css: "",
 
-    // custom CSS to embed in the terminal window
-    termCSS: "",
-
-    // if you're using a Linux setup which show native menus, set to false
-    // default: `true` on Linux, `true` on Windows, ignored on macOS
-    showHamburgerMenu: "",
-
-    // set to `false` (without backticks and without quotes) if you want to hide the minimize, maximize and close buttons
-    // additionally, set to `'left'` if you want them on the left, like in Ubuntu
-    // default: `true` (without backticks and without quotes) on Windows and Linux, ignored on macOS
-    showWindowControls: "",
-
     // custom padding (CSS format, i.e.: `top right bottom left`)
     padding: "12px 14px",
 
@@ -87,16 +78,6 @@ module.exports = {
 
     // the shell to run when spawning a new session (i.e. /usr/local/bin/fish)
     // if left empty, your system's login shell will be used by default
-    //
-    // Windows
-    // - Make sure to use a full path if the binary name doesn't work
-    // - Remove `--login` in shellArgs
-    //
-    // Bash on Windows
-    // - Example: `C:\\Windows\\System32\\bash.exe`
-    //
-    // PowerShell on Windows
-    // - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
     shell: "",
 
     // for setting shell arguments (i.e. for using interactive shellArgs: `['-i']`)
@@ -106,23 +87,33 @@ module.exports = {
     // for environment variables
     env: {},
 
-    // set to `false` for no bell
-    bell: "SOUND",
+    // default width/height in pixels of a new window
+    // windowSize: [540, 380],
+
+    // number of rows to be persisted in terminal buffer for scrolling
+    scrollback: 1000,
 
     // if `true` (without backticks and without quotes), selected text will automatically be copied to the clipboard
     copyOnSelect: true,
 
-    // if `true` (without backticks and without quotes), hyper will be set as the default protocol client for SSH
-    defaultSSHApp: true
-
     // if `true` (without backticks and without quotes), on right click selected text will be copied or pasted if no
     // selection is present (`true` by default on Windows and disables the context menu feature)
-    // quickEdit: true,
+    quickEdit: true,
 
-    // URL to custom bell
-    // bellSoundURL: 'http://example.com/bell.mp3',
+    // if `true` (without backticks and without quotes), hyper will be set as the default protocol client for SSH
+    defaultSSHApp: true,
 
-    // for advanced config flags please refer to https://hyper.is/#cfg
+    // change the behaviour of modifier keys to act as meta key
+    modifierKeys: {},
+
+    // if you're using a Linux setup which show native menus, set to false
+    // default: `true` on Linux, `true` on Windows, ignored on macOS
+    showHamburgerMenu: "",
+
+    // set to `false` (without backticks and without quotes) if you want to hide the minimize, maximize and close buttons
+    // additionally, set to `'left'` if you want them on the left, like in Ubuntu
+    // default: `true` (without backticks and without quotes) on Windows and Linux, ignored on macOS
+    showWindowControls: ""
   },
 
   // a list of plugins to fetch and install from npm

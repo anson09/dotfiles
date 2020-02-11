@@ -9,7 +9,6 @@ icu4c
 libevent
 mkcert
 mongodb-community
-nativefier
 ncurses
 nginx
 nmap

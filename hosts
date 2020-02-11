@@ -1,0 +1,27 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+127.0.0.1 anson.com
+192.168.10.64 huntress
+192.168.10.235 mac-builder
+192.168.10.39 anka-next
+#192.168.10.8 www.ricequant.com 
+# tecent
+172.18.0.13 q-web4
+192.168.0.161 jenkins
+192.168.0.213 nginx1
+192.168.0.102 nginx2
+# azure
+192.168.5.32 rqbeta-stream
+192.168.5.33 anka
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section

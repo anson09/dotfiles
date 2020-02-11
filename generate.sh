@@ -1,10 +1,12 @@
 #!/bin/zsh
 set -uo pipefail
 
+# TODO split src and data in dir
+
 BAK_PATH=$(cd $(dirname $0) && pwd)
 MOVIES=/Users/$USER/Movies
 APPLICATIONS=/Applications
-STATICS=(~/.vimrc ~/.zshrc ~/.hyper.js ~/.gitconfig)
+STATICS=(~/.vimrc ~/.zshrc ~/.hyper.js ~/.gitconfig /etc/hosts /usr/local/etc/nginx/nginx.conf)
 
 function cpCat {
     for item in ${STATICS[*]}
@@ -16,7 +18,6 @@ function cpCat {
 echo "STARING 🚀 ..."
 cpCat
 exa -1 $APPLICATIONS > $BAK_PATH/applications.txt
-exa -TL 2 $MOVIES > $BAK_PATH/movies.txt
 brew list | cat > $BAK_PATH/brew.txt
 brew cask list | cat > $BAK_PATH/brew_cask.txt
 npm -g list --depth=0 > $BAK_PATH/npm.txt

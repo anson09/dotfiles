@@ -1,5 +1,6 @@
 Bose Updater.app
 Charles.app
+DingTalk.app
 Docker.app
 Google Chrome.app
 Hyper.app
@@ -8,9 +9,11 @@ Microsoft Excel.app
 Microsoft PowerPoint.app
 Microsoft Word.app
 NeteaseMusic.app
+QQLive.app
 RAR Extractor Lite.app
 Safari.app
 ShadowsocksX-NG.app
+TeamViewer.app
 Thunder.app
 Tunnelblick.app
 Utilities
