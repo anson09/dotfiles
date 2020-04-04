@@ -2,9 +2,10 @@
 set -uo pipefail
 
 BAK_PATH=$(cd $(dirname $0)/../config && pwd)
-echo $BAK_PATH
+USER_PATH=/Users/anson
+
 APPLICATIONS=/Applications
-STATICS=(~/.vimrc ~/.zshrc ~/.hyper.js ~/.gitconfig /etc/hosts /usr/local/etc/nginx/nginx.conf)
+STATICS=($USER_PATH/.vimrc $USER_PATH/.zshrc $USER_PATH/.hyper.js $USER_PATH/.gitconfig /etc/hosts /usr/local/etc/nginx/nginx.conf)
 
 function cpCat {
     for item in ${STATICS[*]}
