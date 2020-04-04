@@ -8,19 +8,20 @@
 255.255.255.255	broadcasthost
 ::1             localhost
 
+## company
 127.0.0.1 anson.com
 192.168.10.64 huntress
 192.168.10.235 mac-builder
-192.168.10.39 anka-next
+192.168.10.27 anka-bak
 #192.168.10.8 www.ricequant.com 
+
 # tecent
 172.18.0.13 q-web4
 192.168.0.161 jenkins
 192.168.0.213 nginx1
 192.168.0.102 nginx2
-# azure
-192.168.5.32 rqbeta-stream
-192.168.5.33 anka
+129.204.245.22 anka
+
 # Added by Docker Desktop
 # To allow the same kube context to work on the host and the container:
 127.0.0.1 kubernetes.docker.internal

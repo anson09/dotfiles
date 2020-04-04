@@ -1,10 +1,8 @@
 #!/bin/zsh
 set -uo pipefail
 
-# TODO split src and data in dir
-
-BAK_PATH=$(cd $(dirname $0) && pwd)
-MOVIES=/Users/$USER/Movies
+BAK_PATH=$(cd $(dirname $0)/../config && pwd)
+echo $BAK_PATH
 APPLICATIONS=/Applications
 STATICS=(~/.vimrc ~/.zshrc ~/.hyper.js ~/.gitconfig /etc/hosts /usr/local/etc/nginx/nginx.conf)
 

@@ -24,5 +24,6 @@ redis
 ripgrep
 siege
 tmux
+utf8proc
 zsh-autosuggestions
 zsh-syntax-highlighting

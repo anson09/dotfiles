@@ -3,7 +3,3 @@
 	email = anson@ricequant.com
 [merge]
 	tool = vscode
-[diff]
-	submodule = log
-[status]
-	submodulesummary = 1
