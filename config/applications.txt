@@ -5,12 +5,12 @@ Docker.app
 Google Chrome.app
 Hyper.app
 IINA.app
+Keka.app
 Microsoft Excel.app
 Microsoft PowerPoint.app
 Microsoft Word.app
 NeteaseMusic.app
 QQLive.app
-RAR Extractor Lite.app
 Safari.app
 ShadowsocksX-NG.app
 TeamViewer.app
