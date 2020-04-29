@@ -2,6 +2,7 @@ Bose Updater.app
 Charles.app
 DingTalk.app
 Docker.app
+Firefox.app
 Google Chrome.app
 Hyper.app
 IINA.app
