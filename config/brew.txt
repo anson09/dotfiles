@@ -13,7 +13,6 @@ ncurses
 nginx
 nmap
 node
-node@10
 node@12
 onefetch
 openssl@1.1
