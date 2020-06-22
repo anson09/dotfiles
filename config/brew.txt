@@ -14,6 +14,8 @@ nginx
 nmap
 node
 node@12
+nspr
+nss
 onefetch
 openssl@1.1
 pcre

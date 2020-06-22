@@ -111,7 +111,7 @@ alias proxy='export http_proxy=http://127.0.0.1:1087; export https_proxy=http://
 alias unproxy='unset http_proxy; unset https_proxy;'
 
 alias nr='npm run'
-alias ls='exa'
-alias c='bat'
+alias e='exa'
+alias b='bat'
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 export PATH="/usr/local/opt/node@12/bin:$PATH"

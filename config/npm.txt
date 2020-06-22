@@ -1,3 +1,4 @@
 nodemon
+nve
 pure-prompt
 trash-cli
