@@ -3,6 +3,7 @@ bat
 exa
 fd
 fzf
+git-delta
 git-quick-stats
 hyperfine
 icu4c
