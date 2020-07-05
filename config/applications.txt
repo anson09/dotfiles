@@ -12,6 +12,7 @@ Microsoft PowerPoint.app
 Microsoft Word.app
 NeteaseMusic.app
 QQLive.app
+QQMusic.app
 Safari.app
 ShadowsocksX-NG.app
 TeamViewer.app
@@ -22,5 +23,6 @@ Utilities
 Visual Studio Code.app
 VNC Viewer.app
 WeChat.app
+XMind.app
 企业微信.app
 网易有道词典.app
