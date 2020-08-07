@@ -63,7 +63,7 @@ HIST_STAMPS="yyyy-mm-dd"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git colored-man-pages tmux docker docker-compose
+  git colored-man-pages docker docker-compose
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -115,3 +115,4 @@ alias e='exa'
 alias b='bat'
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 export PATH="/usr/local/opt/node@12/bin:$PATH"
+#export PATH="/usr/local/opt/node@10/bin:$PATH"

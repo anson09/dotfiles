@@ -6,13 +6,11 @@ Google Chrome.app
 Hyper.app
 IINA.app
 Keka.app
-Microsoft Edge.app
 Microsoft Excel.app
 Microsoft PowerPoint.app
 Microsoft Word.app
 NeteaseMusic.app
 QQLive.app
-QQMusic.app
 Safari.app
 ShadowsocksX-NG.app
 TeamViewer.app

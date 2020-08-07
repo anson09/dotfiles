@@ -3,11 +3,3 @@
 	email = anson@ricequant.com
 [merge]
 	tool = vscode
-[core]
-    pager = delta
-[delta]
-    plus-color = "#012800"
-    minus-color = "#340001"
-    theme = 'Nord'   
-[interactive]
-    diffFilter = delta --color-only
