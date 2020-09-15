@@ -5,6 +5,7 @@ Firefox.app
 Google Chrome.app
 Hyper.app
 IINA.app
+iMovie.app
 Keka.app
 Microsoft Excel.app
 Microsoft PowerPoint.app
@@ -21,6 +22,7 @@ Utilities
 Visual Studio Code.app
 VNC Viewer.app
 WeChat.app
+Wireshark.app
 XMind.app
 企业微信.app
 网易有道词典.app

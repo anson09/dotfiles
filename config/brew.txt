@@ -4,10 +4,13 @@ exa
 fd
 fzf
 git-quick-stats
+hey
+htop
 hyperfine
 icu4c
 mkcert
 mongodb-community
+ncurses
 nginx
 nmap
 node
@@ -20,6 +23,5 @@ pcre
 pcre2
 redis
 ripgrep
-siege
 zsh-autosuggestions
 zsh-syntax-highlighting
