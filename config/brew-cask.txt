@@ -1,2 +1,2 @@
-font-cascadia
+font-cascadia-code
 font-fira-code

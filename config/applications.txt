@@ -3,7 +3,6 @@ Charles.app
 Docker.app
 Firefox.app
 Google Chrome.app
-Hyper.app
 IINA.app
 iMovie.app
 Keka.app
