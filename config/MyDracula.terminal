@@ -164,7 +164,7 @@
 	AAAAHAAAAAAAAAAAAAAAAAAAANc=
 	</data>
 	<key>FontAntialias</key>
-	<false/>
+	<true/>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0699999999999998</real>
 	<key>SelectionColor</key>
@@ -212,11 +212,11 @@
 	<key>UseBrightBold</key>
 	<true/>
 	<key>columnCount</key>
-	<integer>100</integer>
+	<integer>120</integer>
 	<key>name</key>
 	<string>MyDracula</string>
 	<key>rowCount</key>
-	<integer>60</integer>
+	<integer>80</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>

@@ -1,2 +1,0 @@
-font-cascadia-code
-font-fira-code
