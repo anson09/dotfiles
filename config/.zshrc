@@ -115,5 +115,6 @@ alias e='exa'
 alias b='bat'
 alias dk='docker'
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
-export PATH="/usr/local/opt/node@12/bin:$PATH"
 #export PATH="/usr/local/opt/node@10/bin:$PATH"
+export PATH="/usr/local/opt/node@12/bin:$PATH"
+#export PATH="/usr/local/opt/node@14/bin:$PATH"

@@ -10,7 +10,9 @@
 
 ## company
 127.0.0.1 anson.com rq.tech m.rq.tech
+192.168.10.1
 192.168.10.64 huntress
+192.168.10.34 worker0
 192.168.10.235 mac-builder
 192.168.10.27 anka-bak
 
