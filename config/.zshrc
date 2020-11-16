@@ -107,7 +107,8 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 autoload -U promptinit; promptinit
 prompt pure
 
-alias proxy='export http_proxy=http://127.0.0.1:1087; export https_proxy=http://127.0.0.1:1087;'
+#alias proxy='export http_proxy=http://127.0.0.1:1087; export https_proxy=http://127.0.0.1:1087;'
+alias proxy='export http_proxy=http://192.168.11.200:1080; export https_proxy=http://192.168.11.200:1080;'
 alias unproxy='unset http_proxy; unset https_proxy;'
 
 alias nr='npm run'
@@ -116,5 +117,5 @@ alias b='bat'
 alias dk='docker'
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 #export PATH="/usr/local/opt/node@10/bin:$PATH"
-export PATH="/usr/local/opt/node@12/bin:$PATH"
-#export PATH="/usr/local/opt/node@14/bin:$PATH"
+#export PATH="/usr/local/opt/node@12/bin:$PATH"
+export PATH="/usr/local/opt/node@14/bin:$PATH"
