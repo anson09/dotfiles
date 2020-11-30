@@ -107,8 +107,7 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 autoload -U promptinit; promptinit
 prompt pure
 
-#alias proxy='export http_proxy=http://127.0.0.1:1087; export https_proxy=http://127.0.0.1:1087;'
-alias proxy='export http_proxy=http://192.168.11.200:1080; export https_proxy=http://192.168.11.200:1080;'
+alias proxy='export http_proxy=http://127.0.0.1:1087; export https_proxy=http://127.0.0.1:1087;'
 alias unproxy='unset http_proxy; unset https_proxy;'
 
 alias nr='npm run'
