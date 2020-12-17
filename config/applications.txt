@@ -1,0 +1,26 @@
+Charles.app
+Docker.app
+Firefox.app
+Google Chrome.app
+IINA.app
+iMovie.app
+Keka.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+NeteaseMusic.app
+QQLive.app
+Safari.app
+ShadowsocksX-NG.app
+TeamViewer.app
+TencentMeeting.app
+Thunder.app
+Tunnelblick.app
+Utilities
+Visual Studio Code.app
+VNC Viewer.app
+WeChat.app
+Wireshark.app
+XMind.app
+企业微信.app
+网易有道词典.app
