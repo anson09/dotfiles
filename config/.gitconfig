@@ -3,3 +3,5 @@
 	email = anson@ricequant.com
 [merge]
 	tool = vscode
+[pull]
+	rebase = true
