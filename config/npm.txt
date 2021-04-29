@@ -1,3 +1,4 @@
+@rqjs
 nodemon
 npm-check-updates
 nve

@@ -5,3 +5,5 @@
 	tool = vscode
 [pull]
 	rebase = true
+[init]
+	defaultBranch = main
