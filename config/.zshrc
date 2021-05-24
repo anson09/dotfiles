@@ -114,5 +114,3 @@ alias nr='npm run'
 alias e='exa'
 alias b='bat'
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
-#export PATH="/usr/local/opt/node@12/bin:$PATH"
-export PATH="/usr/local/opt/node@14/bin:$PATH"

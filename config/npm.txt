@@ -1,9 +1,11 @@
-@rqjs
+fx
+mongosh
 nodemon
 npm-check-updates
 nve
 pkg
 pure-prompt
+tldr
 trash-cli
 typescript
-yarn
+zx
