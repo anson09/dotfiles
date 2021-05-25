@@ -1,19 +1,17 @@
 Charles.app
 Docker.app
 Firefox.app
-Firefox Nightly.app
 Google Chrome.app
-Google Chrome Canary.app
 IINA.app
 Keka.app
 NeteaseMusic.app
+qv2ray.app
 Safari.app
 Safari Technology Preview.app
 ShadowsocksX-NG.app
 TeamViewer.app
 TencentMeeting.app
 Thunder.app
-Tiger Trade.app
 Tunnelblick.app
 Utilities
 VideoFusion-macOS.app
