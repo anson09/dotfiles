@@ -1,0 +1,28 @@
+Charles.app
+Docker.app
+Firefox.app
+Firefox Nightly.app
+Google Chrome.app
+Google Chrome Canary.app
+IINA.app
+Keka.app
+NeteaseMusic.app
+Safari.app
+Safari Technology Preview.app
+ShadowsocksX-NG.app
+TeamViewer.app
+TencentMeeting.app
+Thunder.app
+Tiger Trade.app
+Tunnelblick.app
+Utilities
+VideoFusion-macOS.app
+Visual Studio Code.app
+VNC Viewer.app
+WeChat.app
+Wireshark.app
+wpsoffice.app
+企业微信.app
+微文档.app
+微盘.app
+网易有道词典.app
