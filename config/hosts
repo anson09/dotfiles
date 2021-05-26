@@ -10,10 +10,7 @@
 
 ## company
 127.0.0.1 anson.com rq.tech m.rq.tech
-192.168.10.1
 192.168.10.64 huntress
-192.168.10.34 worker0
-192.168.10.235 mac-builder
 192.168.10.27 anka-bak
 
 # tecent
@@ -22,6 +19,7 @@
 192.168.0.213 nginx1
 192.168.0.102 nginx2
 129.204.245.22 anka
+172.30.0.14 anka-new
 
 # Added by Docker Desktop
 # To allow the same kube context to work on the host and the container:
