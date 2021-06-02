@@ -5,7 +5,6 @@ npm-check-updates
 nve
 pkg
 pure-prompt
-tldr
 trash-cli
 typescript
 zx

@@ -19,8 +19,7 @@
 192.168.0.161 jenkins
 172.18.0.160 nginx1
 172.18.2.2 nginx2
-129.204.245.22 anka
-172.30.0.14 anka-new
+172.30.0.14 anka 
 
 # Added by Docker Desktop
 # To allow the same kube context to work on the host and the container:
