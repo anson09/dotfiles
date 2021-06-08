@@ -6,20 +6,20 @@ IINA.app
 Keka.app
 Maccy.app
 NeteaseMusic.app
-qv2ray.app
-Safari.app
 Safari Technology Preview.app
+Safari.app
 ShadowsocksX-NG.app
 TeamViewer.app
 TencentMeeting.app
 Thunder.app
 Tunnelblick.app
 Utilities
+VNC Viewer.app
 VideoFusion-macOS.app
 Visual Studio Code.app
-VNC Viewer.app
 WeChat.app
 Wireshark.app
+qv2ray.app
 wpsoffice.app
 企业微信.app
 微文档.app
