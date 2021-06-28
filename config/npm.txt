@@ -1,4 +1,6 @@
+envinfo
 fx
+jsvu
 mongosh
 nodemon
 npm-check-updates
