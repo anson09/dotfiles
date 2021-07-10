@@ -1,6 +1,7 @@
 Charles.app
 Docker.app
 Firefox.app
+Google Chrome Canary.app
 Google Chrome.app
 IINA.app
 Keka.app
