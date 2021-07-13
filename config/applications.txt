@@ -1,7 +1,6 @@
 Charles.app
 Docker.app
 Firefox.app
-Google Chrome Canary.app
 Google Chrome.app
 IINA.app
 Keka.app
@@ -20,7 +19,6 @@ VideoFusion-macOS.app
 Visual Studio Code.app
 WeChat.app
 Wireshark.app
-qv2ray.app
 wpsoffice.app
 企业微信.app
 微文档.app
